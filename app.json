@@ -3,6 +3,7 @@
     "description": "Telegram BOT to Notify Users that the is under Maintenance-BOT",
     "keywords":["telegram", "bot", "maintenance", "best"],
     "website": "https://github.com/10cyrilc",
+    "logo" : "https://telegra.ph/file/d89902acbb03f1ea73e62.jpg",
     "repository": "https://github.com/10cyrilc/Maintenance-BOT",
      "env":{
          "BOT_TOKEN":{
