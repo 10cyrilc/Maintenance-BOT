@@ -26,7 +26,7 @@ cd Maintenance-BOT
 
 Edit edit_me.py with Details as Follows,
 
-Get you BOT_TOKEN from <a href=https://t.me/BotFather>@BotFather</a>, Required
+Get you BOT_TOKEN from @BotFather, Required
 Get API_ID and API_HASH from my.telegram.org, Required
 Edit BOT_TEXT if Required
 Get CHANNEL_LINK from Your Channel Settings, Required
@@ -37,9 +37,8 @@ python bot.py
 ```
 
 ## Bugs
-```
-If You Find any Bugs Feel Free to contact <a href="https://t.me/c_text_bot">Cyril C Thomas</a>
-```
+
+####If You Find any Bugs Feel Free to contact <a href="https://t.me/c_text_bot">Cyril C Thomas</a>
 
 ## My BOTs Channel
 <a href="https://t.me/c_bots_support">C BOTs</a>
