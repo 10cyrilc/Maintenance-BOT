@@ -20,7 +20,7 @@
 
 
 ### On VPS or Locally
-'''
+```
 git clone https://github.com/10cyrilc/Maintenance-BOT.git
 cd Maintenance-BOT
 
@@ -34,12 +34,12 @@ DEV_ID is The Username of The Developer without the @, Required
 
 pip3 install -r requirements.txt
 python bot.py
-'''
+```
 
 ## Bugs
-'''
+```
 If You Find any Bugs Feel Free to contact <a href="https://t.me/c_text_bot">Cyril C Thomas</a>
-''''
+```
 
 ## My BOTs Channel
 <a href="https://t.me/c_bots_support">C BOTs</a>
