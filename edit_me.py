@@ -8,7 +8,7 @@ import os
 
 class Config(object):
     BOT_TOKEN = os.environ.get("BOT_TOKEN","") #Get this from @BOTfather
-    API_ID = int(os.environ.get("API_KEY","")) # Get this from my.telegram.org
+    API_ID = int(os.environ.get("API_KEY", )) # Get this from my.telegram.org
     API_HASH = os.environ.get("API_HASH","") # Get this from my.telegram.org
 
     BOT_TEXT = os.environ.get("BOT_TEXT","") # Comment this out if using default text
