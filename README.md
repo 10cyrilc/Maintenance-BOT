@@ -1,25 +1,25 @@
-#Maintenance BOT
+# Maintenance BOT
 
-##Table of Contents
+## Table of Contents
 * [What is This BOT?](#What-is-This-BOT?)
 * [Setup](#setup)
 * [Bugs](#Bugs)
 * [My BOT Channel](#My-BOTs-Channel)
 
 
-##What is This BOT?
+## What is This BOT?
 
-###Is your BOT under maintenance?
-###Use This BOT to Notify Everyone Messaging Your BOT that The Original BOT is under Maintenance
+### Is your BOT under maintenance?
+### Use This BOT to Notify Everyone Messaging Your BOT that The Original BOT is under Maintenance
 
-##Setup
+## Setup
 
-###On Heroku
+### On Heroku
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/10cyrilc/Maintenance-BOT)
 
 
-###On VPS or Locally
+### On VPS or Locally
 '''
 git clone https://github.com/10cyrilc/Maintenance-BOT.git
 cd Maintenance-BOT
@@ -36,10 +36,10 @@ pip3 install -r requirements.txt
 python bot.py
 '''
 
-##Bugs
+## Bugs
 '''
 If You Find any Bugs Feel Free to contact <a href="https://t.me/c_text_bot">Cyril C Thomas</a>
 ''''
 
-##My BOTs Channel
+## My BOTs Channel
 <a href="https://t.me/c_bots_support">C BOTs</a>
