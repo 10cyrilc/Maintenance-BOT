@@ -38,7 +38,7 @@ python bot.py
 
 ## Bugs
 
-####If You Find any Bugs Feel Free to contact <a href="https://t.me/c_text_bot">Cyril C Thomas</a>
+#### If You Find any Bugs Feel Free to contact <a href="https://t.me/c_text_bot">Cyril C Thomas</a>
 
 ## My BOTs Channel
 <a href="https://t.me/c_bots_support">C BOTs</a>
